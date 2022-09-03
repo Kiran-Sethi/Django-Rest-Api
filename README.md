@@ -1,5 +1,6 @@
 # Django-Rest-Api
-Creating Rest Api using Django Rest Framework. Tutorial followed - https://www.youtube.com/watch?v=ejJ-2oz4AgI 
+Rest Api using Django Rest Framework. 
+Tutorial followed - https://www.youtube.com/watch?v=ejJ-2oz4AgI 
 
 To run the project-
 1. first activate the virtual environment - >  
